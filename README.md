@@ -1,4 +1,4 @@
-# Welcome Slur ^.^
+# Welcome Sob, [Sanz](https://www.youtube.com/channel/UCLRXFyMN0L8yH9F-xxOd7Og) here 🙌
 
 Uwwu ada yg kepo nih sama akun github Gua. Jangan lupa follow sama kasih bintang ya Slur Xixi.
 
