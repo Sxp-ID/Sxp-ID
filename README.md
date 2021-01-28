@@ -4,9 +4,10 @@ Uwwu ada yg kepo nih sama akun github Gua. Jangan lupa follow sama kasih bintang
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sxp-ID&theme=dark&hide_langs_below=1"/>
 <!-- Jangan Di Rikod Donk Om Aku Juga Masih Belajar :v -->
-<!-- Berkat mantan aing, aing jadi kek gini njink -->
-<!-- Tapi Gpp lah syukuri aja walaupun cuman belajar Otodidak -->
-## Support Me On
+## Happy Coding
+> Dengan anda bisa ngoding bisa membuat anda menjadi seorang hekel plo :v
+<!-- Aing cuman belajar Otodidak Mamang-->
+### Support Me On
 <!-- Wih Ada Bang Jago Recode & Copas Code Aing Njink -->
 <!-- Aing Juga Bikin Sendiri Njink Lu Enak Maen Copy2 Aja Kan Goblok -->
 * [<img alt="Sxp-ID's Facebook" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /> <b>Sanz</b>](https://www.facebook.com/dhasilva.junior.3)<br />
