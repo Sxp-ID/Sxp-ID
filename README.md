@@ -2,7 +2,7 @@
 
 Uwwu ada yg kepo nih sama akun github Gua. Jangan lupa follow sama kasih bintang ya Slur Xixi.
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sxp-ID&theme=dark&hide_langs_below=1" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sxp-ID&theme=dark&hide_langs_below=1"/>
 <!-- Jangan Di Rikod Donk Om Aku Juga Masih Belajar :v -->
 <!-- Berkat mantan aing, aing jadi kek gini njink -->
 <!-- Tapi Gpp lah syukuri aja walaupun cuman belajar Otodidak -->
