@@ -4,9 +4,6 @@ Uwwu ada yg kepo nih sama akun github Gua. Jangan lupa follow sama kasih bintang
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sxp-ID&theme=dark&hide_langs_below=1" />
 <!-- Jangan Di Rikod Donk Om Aku Juga Masih Belajar :v -->
-
-## Thanks For M4NT4N AING :v
-> Betapa tolol nya elu any!nk udh ninggalin Aing pas lagi sayang2nya demi dia yg mukanya kaya dog yahaha!!
 <!-- Berkat mantan aing, aing jadi kek gini njink -->
 <!-- Tapi Gpp lah syukuri aja walaupun cuman belajar Otodidak -->
 ### Support Me On
