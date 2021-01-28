@@ -5,7 +5,9 @@ Uwwu ada yg kepo nih sama akun github Gua. Jangan lupa follow sama kasih bintang
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sxp-ID&theme=dark&hide_langs_below=1"/>
 <!-- Jangan Di Rikod Donk Om Aku Juga Masih Belajar :v -->
 ## Happy Coding
+<br>
 > Dengan anda bisa ngoding bisa membuat anda menjadi seorang hekel plo :v
+</br>
 <!-- Aing cuman belajar Otodidak Mamang-->
 ### Support Me On
 <!-- Wih Ada Bang Jago Recode & Copas Code Aing Njink -->
