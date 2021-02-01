@@ -1,9 +1,7 @@
 # Welcome Sob, [Sanz](https://www.facebook.com/dhasilva.junior.3) here 🙌
 
 Uwwu ada yg kepo nih sama akun github Gua. Jangan lupa follow sama kasih bintang ya Slur Xixi.
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sxp-ID&theme=dark&hide_langs_below=1"
-/>
+<p><img align="center" width=100% src="https://github-readme-stats.vercel.app/api/top-langs?username=Sxp-ID&show_icons=true&locale=en&layout=compact&theme=radical" alt="Sanz" /></p>
 <!-- Jangan Di Rikod Donk Om Aku Juga Masih Belajar :v -->
 <!-- Aing cuman belajar Otodidak Mamang-->
 ## Support Me On
