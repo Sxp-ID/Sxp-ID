@@ -1,4 +1,4 @@
-# Welcome Sob, [Sanz](https://www.facebook.com/dhasilva.junior.3) here <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="50px">
+# Welcome Sob, [Sanz](https://www.facebook.com/dhasilva.junior.3) here <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="40px">
 
 Uwwu ada yg kepo nih sama akun github Gua. Jangan lupa follow sama kasih bintang ya Slur Xixi.
 <p><img align="center" width=100% src="https://github-readme-stats.vercel.app/api/top-langs?username=Sxp-ID&show_icons=true&locale=en&layout=compact&theme=radical" alt="Sanz" /></p>
