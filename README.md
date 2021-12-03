@@ -1,6 +1,8 @@
 # Welcome Sob, [Sanz](https://www.facebook.com/dhasilva.junior.3) here <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="40px">
-
-Uwwu ada yg kepo nih sama akun github Gua. Jangan lupa follow sama kasih bintang ya Slur Xixi.
+<p align="center">
+  <a href="https://youtube.com/channel/UCLRXFyMN0L8yH9F-xxOd7Og" target="blank"><img src="http://readme-typing-svg.herokuapp.com?color=%23FFFFFF&multiline=false&width=1200&height=50&lines=Hai+I'm+Sanz;Gua+Cuman+Orang+Biasa+Yg+Gak+Bisa+Apa²;Support+Terus+Youtube+Gua+Ya+Ngab+!+(+FREE+TUTORIAL+);Uwwu+ada+yg+kepo+nih+sama+akun+github+Gua.+Jangan+lupa+follow+sama+kasih+bintang+ya+Slur+Xixi." alt="Sanz">
+</p>
+<!-- Uwwu ada yg kepo nih sama akun github Gua. Jangan lupa follow sama kasih bintang ya Slur Xixi. -->
 <p><img align="center" width=100% src="https://github-readme-stats.vercel.app/api/top-langs?username=Sxp-ID&show_icons=true&locale=en&layout=compact&theme=radical" alt="Sanz" /></p>
 <!-- Jangan Di Rikod Donk Om Aku Juga Masih Belajar :v -->
 <!-- Aing cuman belajar Otodidak Mamang-->
