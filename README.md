@@ -1,4 +1,4 @@
-# Hallo Ngab, [Sanz](https://www.facebook.com/dhasilva.junior.3) D Sini Wkwk<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="40px">
+# Hallo Ngab, [Sanz](https://www.facebook.com/dhasilva.junior.3) D Sini Wkwk <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="40px">
 <!-- 👋 -->
 <!-- <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="40px"> -->
 <!-- <<p align="center">
